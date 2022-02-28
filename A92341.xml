@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The taking of Carnarven the castle, works, ammunition bag and baggage, by Major-Generall Mitton: where are, the Lord Byron, Collonel Vere. Collonel Vane. And divers officers of note, [double brace] bishops, gentlemen, malignant clergymen, and others. With our prosperous proceedings in the totall reducing of North-VVales. Printed by the originall papers, and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92341</idno>
+            <idno type="STC">Wing R76A</idno>
+            <idno type="STC">Thomason E340_17</idno>
+            <idno type="STC">ESTC R200878</idno>
+            <idno type="EEBO-CITATION">99861503</idno>
+            <idno type="PROQUEST">99861503</idno>
+            <idno type="VID">159742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159742)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The taking of Carnarven the castle, works, ammunition bag and baggage, by Major-Generall Mitton: where are, the Lord Byron, Collonel Vere. Collonel Vane. And divers officers of note, [double brace] bishops, gentlemen, malignant clergymen, and others. With our prosperous proceedings in the totall reducing of North-VVales. Printed by the originall papers, and published according to order of Parliament.</title>
+                  <author>S. R.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iane Coe,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Iune the 11. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of two documents, the second of which is a letter signed: S.R.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Caernaruon (Wales) --  History --  Siege, 1646 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159742:1" rendition="simple:additions"/>
+            <p> The taking of CARNARVEN THE Caſtle, Works, Ammunition Bag and Baggage, By Major-Generall MITTON: Where are,
+<list>
+                  <item>
+                     <hi>The Lord</hi> Byron,</item>
+                  <item>
+                     <hi>Collonel</hi> Vere.</item>
+                  <item>
+                     <hi>Collonel</hi> Vane.</item>
+                  <item>
+                     <hi>And divers Officers of note,</hi>
+                  </item>
+                  <item>
+                     <hi>Biſhops, Gentlemen,</hi>
+                  </item>
+                  <item>
+                     <hi>Malignant Clergy-men.</hi>
+                  </item>
+                  <item>
+                     <hi>And others.</hi>
+                  </item>
+               </list> WITH Our proſperous Proceedings in the totall reducing of <hi>North-VVales.</hi>
+            </p>
+            <p>
+               <hi>Printed by the Originall Papers, and publiſhed according to Order of</hi> PARLIAMENT.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Iane Coe, Iune</hi> the 11. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:159742:2"/>
+            <pb n="1" facs="tcp:159742:2"/>
+            <head>
+               <hi>Articles agreed upon</hi> June 4. 1646. <hi>Between Col.</hi> Edward Vere,
+<hi>Collonel</hi> George Vane, <hi>Lieutenant Col</hi> John Diſney; <hi>Commiſſioners on the behalf of the Lord</hi> Byron; <hi>And Col.</hi> Thomas Glyn, <hi>Col.</hi> John Carter,
+<hi>Major</hi> Hierome Sankey, <hi>Commiſſioners appointed on the behalf of General</hi> Mitton, <hi>for the ſur<g ref="char:EOLhyphen"/>render of the Town and Caſtle of</hi> Carnarvan.</head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>THat the Lord Byron, the Governour of the Town and Caſtle of Carnarvan, all Officers in Commiſsion, and Gentlemen of quality, with their meniall Servants, ſhall have liberty to march out with their Horſe, Arms, Bag and Baggage, properly to them belonging unto their ſeverall Countries Friends, and Eſtates, whereſoever they are in this Kingdom, and to have liberty for three Months unmoleſted, to make their peace with the Parliament, or to procure the Par<g ref="char:EOLhyphen"/>liaments Licence to go beyond Seas, they doing no<g ref="char:EOLhyphen"/>thing during the time, to the prejudice of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div n="2" type="article">
+               <pb n="2" facs="tcp:159742:3"/>
+               <head>II.</head>
+               <p>That the reſt of the inferiour Officers and common Souldiers ſhall have liberty to march to VVorceſter, marching ten miles a day, and if that Town be beſieged before they come thither; the Commander in chiefe at that Leagure, to bee deſired by Major Gen. <hi>Mitton</hi> to give them Paſſes to go to their own homes, they inga<g ref="char:EOLhyphen"/>ging themſelves to doe nothing to the prejudice of the Parliament, and all to have free quarter in their march.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III</head>
+               <p>That all Officers and Souldiers whatſoever, that are ſick, or wounded in the Town, or Caſtle, ſhall have li<g ref="char:EOLhyphen"/>berty to continue in Gen. <hi>Mitton</hi> his quarters till they be recovered and then to have Paſſes to travell to their own Countries, and in the mean time to be carefully provided for by Gen. <hi>Mitton</hi> his order, they doing no<g ref="char:EOLhyphen"/>thing prejudiciall to the Parliament.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>That neither the perſon of the L. <hi>Byron,</hi> nor the per<g ref="char:EOLhyphen"/>ſon of any Offiicer, Gentleman, or Souldier, marching out as aforeſaid, be ſearched; moleſted, or troubled upon what pretence ſoever, they paſſing their Honours, that they carry nothing but what is Articled for, and that none be entiſed from their Regiment upon promiſe of preferment, or other inducement whatſoever.</p>
+            </div>
+            <div n="5" type="article">
+               <head>V.</head>
+               <p>That ſuch proviſion of Carriage be made as the Lord <hi>Byron</hi> ſhall think neceſſary.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>That Sir VVil. Byron, Lieut. Col. Iohn Robinſon, Lieut. Col. Shake<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly, Capt. Haſſal, Capt. Alcock, Cap.
+<pb n="3" facs="tcp:159742:3"/> Bennet, Arch Deacon Price, and the Clergy men in Town have the benefit of the Articles.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>That the Town and Townſmen of Carnarvan ſhall enjoy all thoſe rights and priviledges which formerly they had, and be preſerv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and kept from the violence and plunder of the Souldiers.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>That the Iriſh according to the ſence of the Ordi<g ref="char:EOLhyphen"/>nance of Parliament made in that behalf ſhall be priſo<g ref="char:EOLhyphen"/>ners.</p>
+            </div>
+            <div n="9" type="article">
+               <head>IX.</head>
+               <p>That in conſideration hereof, the Town and Caſtle of Carnarvan, with all the Ordnance, Armes, Ammuni<g ref="char:EOLhyphen"/>tion, Boats and Proviſion, without any imbezelling or defacing, and all other Proviſions of warre whatſoever, with the Records therin, except what is allowed by the Articles to be carryed away, and formerly herein men<g ref="char:EOLhyphen"/>tioned, be delivered up to Gen. Tho. Mitton, or to ſuch as he ſhall appoint upon Saturday next enſuing, being the 6 of this inſtant Iune, by twelve of the Clocke at Noon for the uſe of King and Parliament.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X.</head>
+               <p>That a Convoy be appointed for the L. Byron, and ſuch Of<g ref="char:EOLhyphen"/>ficers Gentlemen, and Souldiers, as ſhall march out, for their ſafe Conduct out of North-Wales,</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>That Hoſtages be given on both ſides for the performance of theſe Articles, and the return of the Convoy.</p>
+               <closer>
+                  <signed>Subſcribed by
+<list>
+                        <head>Commiſſioners for Gen. Mitton.</head>
+                        <item>Thomas Glynne.</item>
+                        <item>John Carter.</item>
+                        <item>Ierome Sanky.</item>
+                     </list>
+                     <list>
+                        <head>Commiſſioners for the L, Byron.</head>
+                        <item>Edward Vere.</item>
+                        <item>Iohn Vane.</item>
+                        <item>Iohn Diſney.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:159742:4"/>
+            <head>The Copy of a Letter from <hi>Carnarvan</hi> of the ſurrender of the Caſtle, &amp;c. to Major-Gen: <hi>Mitton,</hi> agreed to by Commiſsioners on both ſides.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN my laſt I advertiſed you of our Agreement to ca<g ref="char:EOLhyphen"/>pitulate with the Lord Byron for the ſurrender of Carnarven, and ſix Commiſſioners were choſen, three for Major-Generall Mitton, and three for the L. Byron, his Lordſhip ſent out Col. Edward Vere, Colonel Iohn Vane, and Lieutenant Col. Iohn Diſney, and on our ſide were choſen Col. Thomas Glyn, Col. Iohn Car<g ref="char:EOLhyphen"/>ter, and Serjeant-Major Hierome Zankey, who have effected the work, ſo that Carnarven is agreed to bee ſurrendred to us, agreed by both parties upon this trea<g ref="char:EOLhyphen"/>tie, and by each ſigned. I have here incloſed ſent you the Copy of the Articles whereupon it is to be ſurren<g ref="char:EOLhyphen"/>dred, which I hope will give very good ſatisfaction, and content to the State.
+<pb n="5" facs="tcp:159742:4"/> I am ſure it is a very conſiderable ſervice; it being a place of great ſtrength and of great uſe; And we are now to fall upon other deſignes for the reducing of theſe parts to the obedience of the Parliament, but I muſt tell you they are here for matter of Religion a moſt ignorant, and brutiſh people; who know very little of God; and it is heartily to be wiſhed that ſome honeſt and godly painfull Miniſters would come to preach the Goſpell to them, Indeede there are ſome Prelates, and prelaticall Clergy in Carnerven very malignant, and ſuch as the people are like to profit but little by; except they will ſtudy to preach Ieſus Chriſt more then for ought I can here they have done but the Country Townes here abouts have been quite without all manner of preaching almoſt, but bleſſed be God we are in a faire way to reduce, theſe parts to the obedience of the Parliament, (who I doubt not) will take care to ſend a powerfull miniſtry ſo ſoone as North-wales is totally reduced, I hope that (very ſhortly) you will here good newes, from Angleſay which is the place of the greateſt conſequence (in all theſe parts, this that we have taken in being very con<g ref="char:EOLhyphen"/>ſiderable alſo) Benmorris being a place that hath bin of great uſe to the King; I hope it will now be ſodain<g ref="char:EOLhyphen"/>ly in our hands, which is of great conſequence; be<g ref="char:EOLhyphen"/>cauſe of the conveniency of bringing in of divers for<g ref="char:EOLhyphen"/>raigne forces thither as hath been often done to ſerve the King againſt the Parliament and Kingdome. I truſt in the Lord that now God will be pleaſed to put an end to all the troubles of theſe parts; that we may meete in peace. The King hath now no more Gariſons
+<pb n="6" facs="tcp:159742:5"/> mentained by his party againſt us in all North-wales ſave only 5. and all of them either are or will be beſi<g ref="char:EOLhyphen"/>ged (if not part of thdm ſurrend<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d) w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dayes. Indeede ſome of them it may be will prove <gap reason="illegible" resp="#OXF" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> be reduced, and may hold out long, our Major Generall, Major Generall Mytton is very active, even to be ad<g ref="char:EOLhyphen"/>mired in the haſtning to make an end of the worke, Collonel Glyne doth us ſervice ſince he joyned with us, and truly Col. Carter, is a very pritty Gentleman, and full of action; the Country are no little glad of the hopes they have to enjoy what they have in peace; which is in a good way for them, there are in Carnar<g ref="char:EOLhyphen"/>ven (with the Lord Byron) many gentlemen of quali<g ref="char:EOLhyphen"/>ty, moſt of the cheif of thoſe Officers that came from Cheſter, ſome Biſhops, and divers malignant Clergy, the works are exceeding good and reguler, high works and thick, and deepe motes, I can not give you the certaine number of the Ordnance, Armes, Ammuni<g ref="char:EOLhyphen"/>tion, and proviſions, till we be poſſeſt of the Caſtle, but after we have taken a note of them I will ſend you a liſt by the firſt opportunity: but thus much I can aſ<g ref="char:EOLhyphen"/>ſure you that they were ſo ſtrongly fortified that they little thought that Carnerven would ſo ſoone have bin in our hands when Byron went thither; but bleſſed be-God this work is not put out of queſtion, and by the next I believe you will hear ſomthing both of Angle<g ref="char:EOLhyphen"/>ſey and Flint Caſtle, but this is all at preſent from.</p>
+            <closer>
+               <dateline>
+                  <hi>Carnarven the</hi> 5. <hi>of</hi>
+                  <date>
+                     <hi>Iune</hi> 1646.</date>
+               </dateline>
+               <signed>Your humble Servant. S. R.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
